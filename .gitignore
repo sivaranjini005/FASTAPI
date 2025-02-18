@@ -18,5 +18,3 @@ alembic.ini
 .vscode/
 .idea/
 *.swp
-database.py
-init_db.py
