@@ -12,8 +12,11 @@ migrations/
 Thumbs.db
 logs/
 *.log
+alembic.ini
 
 # Ignore IDE settings
 .vscode/
 .idea/
 *.swp
+database.py
+init_db.py
