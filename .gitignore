@@ -1,0 +1,19 @@
+venv/
+.env
+
+__pycache__/
+*.pyc
+*.pyo
+
+migrations/
+*.sqlite3
+*.db
+.DS_Store
+Thumbs.db
+logs/
+*.log
+
+# Ignore IDE settings
+.vscode/
+.idea/
+*.swp
